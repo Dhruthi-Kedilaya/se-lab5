@@ -14,4 +14,3 @@ inventory_system.py:61:7: W292 no newline at end of file
 ----------------------------------------
 AFTER FIXES (Final Scan Results)
 ----------------------------------------
-

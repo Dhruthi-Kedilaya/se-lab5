@@ -1,0 +1,4 @@
+2025-10-28 04:13:26,150 - INFO - Added 10 of apple
+2025-10-28 04:13:26,150 - INFO - Added -2 of banana
+2025-10-28 04:13:26,150 - INFO - Added 10 of 123
+2025-10-28 04:13:26,151 - WARNING - Attempted to remove item 'orange' that doesn't exist: 'orange'

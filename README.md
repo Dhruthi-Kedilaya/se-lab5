@@ -32,7 +32,7 @@ This repository contains work for Lab 5 of the Software Engineering course focus
   ```
 3.Run analyses
  ```bash
-   pylint inventory_system.py
+  pylint inventory_system.py
   flake8 inventory_system.py
   bandit -r inventory_system.py
 

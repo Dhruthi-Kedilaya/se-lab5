@@ -25,7 +25,7 @@ The goal was to identify and fix coding style issues, security flaws, and potent
 
 3. **Re-Scan:**  
    - Reran all three tools and confirmed no major issues remained.  
-   - Pylint score improved from **4.60 → 9.39**.  
+   - Pylint score improved from **4.60 → 10.00**.  
    - Bandit reported **zero security warnings** after fixes.  
    - Flake8 reported **no style violations**.
 
